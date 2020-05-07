@@ -7,9 +7,9 @@
 
 ## Sample Clips
 
-| Register                                                     | Main & Walk & Record                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![register](https://user-images.githubusercontent.com/57229970/81262546-022a7180-9079-11ea-91fa-77f1de762293.gif) | <img src="https://github.com/wydryd125/Let-s-mung/image/main.gif"></img> |
+| Register                                                     | Main & Walk                                                  | Record                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![register](https://user-images.githubusercontent.com/57229970/81262546-022a7180-9079-11ea-91fa-77f1de762293.gif) | ![main-walk](https://user-images.githubusercontent.com/57229970/81264037-b88f5600-907b-11ea-8365-1a92bb96c19f.gif) | ![record](https://user-images.githubusercontent.com/57229970/81263903-7e25b900-907b-11ea-8b54-054ed6093dec.gif) |
 
 
 
@@ -94,8 +94,3 @@
     var walkImageCache = [String: [UIImage]]()
     ```
 
-## What's New
-
-- [iOS Date Handling 정리]() : WIP
-- [Firebase: Cloud Firestore 정리]() : WIP
-- [UIView Animation 정리]() : WIP
