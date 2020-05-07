@@ -5,9 +5,14 @@
 - 강아지를 키우는 사람들에게 강아지와 산책하는 것에 동기를 부여하기 위한 앱
 - 강아지만 즐거운게 아니라 강아지를 키우는 사람들도 강아지와 함께 산책하며 재미를 느낄 수 있도록 산책 장소를 정하고 실제로 산책을 다녀왔을 때 보상을 받는 등 재미 요소가 있어야겠다고 생각해서 개발
 
-<p align="center">
-	<img src="images/PetWalk-description.png" alt="Page Description" width="80%">
-</p>
+## Sample Clips
+
+| Register                                                     | Main & Walk & Record                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![register](https://user-images.githubusercontent.com/57229970/81262546-022a7180-9079-11ea-91fa-77f1de762293.gif) | <img src="https://github.com/wydryd125/Let-s-mung/image/main.gif"></img> |
+
+
+
 
 ## Using Skills
 
